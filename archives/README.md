@@ -6,3 +6,4 @@
 version | date | change | notes 
 --------|------|--------|------
 000.000.001 | 2022-12-28 | project creation | * made udt for linked list <br> * made function block for LinkedList <br> * next task: create LinkedList.FindAvailableSlot()
+000.000.006 | 2023-01-03 | created LinkedList.RemoveTail() | none
